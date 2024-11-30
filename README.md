@@ -1,13 +1,14 @@
 # Fashion-Store-Management-System
-Fashion Store Management System ini adalah aplikasi berbasis teks yang dirancang untuk memudahkan pengelolaan informasi tentang produk pakaian dalam sebuah fashion store. Aplikasi ini memungkinkan pengguna untuk melakukan berbagai operasi dasar, seperti menampilkan, menambah, memperbarui, dan menghapus data baju.
+Fashion Store Management System
+This is a text-based application designed to streamline the management of clothing product information in a fashion store. The application allows users to perform essential operations such as displaying, adding, updating, and deleting clothing data.
+The project was developed as a hands-on implementation of Python programming skills, showcasing the ability to create functional and efficient mini-projects.
+The Fashion Store Management System was chosen to meet the essential CRUD (Create, Read, Update, Delete) feature requirements, making it a comprehensive solution for managing store inventory.
 
-Tujuan dari dibuatnya program ini adalah untuk melatih dan mengembangkan ilmu mengenai Python yang sudah dipelajari untuk diimplementasikan pada sebuah mini project.
+Key Features:
+- Clothing Data Management: Includes fields such as Item Code, Name, Category, Stock, and Price.
+- CREATE: Add new clothing data based on the available columns.
+- READ: Display data in three options: all clothing items, items filtered by code, or items filtered by category (Men/Women/Kids).
+- UPDATE: Modify data by selecting the item code and updating specific fields such as Item Code, Name, Category, Stock, or Price.
+- DELETE: Remove clothing data based on the selected item code.
 
-Alasan memilih Fashion Store Management System adalah program ini mampu memenuhi kriteria fitur CRUD (Create, Read, Update, Delete).
-
-Fitur CRUD melengkapi program ini, dengan beberapa detail sebagai berikut:
-  1. Data baju yang terdiri dari Kode Barang, Nama, Kategori, Stok, dan Harga.
-  2. CREATE, yaitu fitur menambah data baju sesuai dengan kolom yang tersedia.
-  3. READ, yaitu menampilkan data dengan 3 opsi yaitu; menampilkan seluruh data baju, menampilkan data baju berdasarkan kode, dan menampilkan data baju berdasarkan kategori (Pria/Wanita/Anak).
-  4. UPDATE, yaitu mengubah data berdasarkan kode barang yang dipilih, lalu pilih kolom apa yang akan diubah seperti: Kode Barang, Nama, Kategori, Stok, dan Harga.
-  5. DELETE, yaitu menghapus data berdasarkan kode barang yang dipilih.
+This project demonstrates strong problem-solving skills, attention to detail, and the ability to build structured applications using Python. It reflects a solid understanding of CRUD operations and object-oriented programming principles.
