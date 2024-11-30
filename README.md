@@ -2,6 +2,7 @@
 Fashion Store Management System
 This is a text-based application designed to streamline the management of clothing product information in a fashion store. The application allows users to perform essential operations such as displaying, adding, updating, and deleting clothing data.
 The project was developed as a hands-on implementation of Python programming skills, showcasing the ability to create functional and efficient mini-projects.
+
 The Fashion Store Management System was chosen to meet the essential CRUD (Create, Read, Update, Delete) feature requirements, making it a comprehensive solution for managing store inventory.
 
 Key Features:
